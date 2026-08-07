@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @kubaes137
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-kubaes137/kubaes137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    alt="Kuba header"
+  />
+</div>
+<h1 align="center">Hi, I'm Kuba 👋</h1>
+<p align="center">
+  <strong>Senior Software Developer</strong><br>
+  Kotlin Backend · AI Engineering · React
+</p>
+</p>
